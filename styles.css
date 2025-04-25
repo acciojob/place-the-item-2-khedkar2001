@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+#holder {
+  display: flex;
+  flex-wrap: wrap; /* allows items to wrap onto the next line */
+  justify-content: center; /* centers items horizontally */
+  align-items: center; /* centers items vertically in the row */
+}
